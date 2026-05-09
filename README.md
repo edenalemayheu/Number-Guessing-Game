@@ -12,5 +12,4 @@ Tracks number of attempts
 Usage  
 Just say: Run the script with Python and follow the prompts in the terminal.
 
-Contributors  
-Made by Eden (https://github.com/edenalemayheu).
+
